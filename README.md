@@ -30,15 +30,14 @@ element.style {
 
   <a href = "mailto:johnatancostas@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/john-costa-53509a243" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- <div class="section-divider background-color-rainbow"></div>
+
 ![Snake animation](https://github.com/10jsc/10jsc/blob/output/github-contribution-grid-snake.svg)
-<div class="section-divider background-color-rainbow"></div>
-</div>
+
 
 ### Agradecimentos:
 
 Ao canal Dev em dobro, aos irmãos Ricardo e Roberto, por trazerem de volta o desejo de aprender desenvolvimento web.
 Canal Dev em dobro :point_down:
-<div>
+ <div class="section-divider background-color-rainbow"></div>
 <a href="https://www.youtube.com/devemdobro" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-</div>
+ <div class="section-divider background-color-rainbow"></div>
