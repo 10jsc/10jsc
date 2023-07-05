@@ -1,5 +1,17 @@
 ## Bem-vindo(a) ao perfil do Dev 10jsc 😁
-
+<head>
+ <style>
+element.style {
+}
+.section-divider {
+    width: 100%;
+    height: 5px;
+}
+.background-color-rainbow {
+    background-color: #116bac;
+    background-image: linear-gradient(90deg, #a51cf1, #336dff 13%, #31bbfd 26%, #3ceaff 39%, #00eab2 52%, #b0e836 65%, #ffda19 78%, #ff8d40 90%, #ff2055);
+}
+</head>
  <div>
    <a href="https://github.com/10jsc">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=10jsc&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
@@ -18,9 +30,9 @@
 
   <a href = "mailto:johnatancostas@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/john-costa-53509a243" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
+ <div class="section-divider background-color-rainbow"></div>
 ![Snake animation](https://github.com/10jsc/10jsc/blob/output/github-contribution-grid-snake.svg)
-
+<div class="section-divider background-color-rainbow"></div>
 </div>
 
 ### Agradecimentos:
