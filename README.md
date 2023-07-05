@@ -20,8 +20,7 @@
 
   <a href = "mailto:johnatancostas@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/john-costa-53509a243" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <img alt="Curriculos" src="[https://img.shields.io/discourse/posts?labelColor=%234444&color=red](https://docs.google.com/document/d/1JlhYGAA1PkAi7EKQbxV23BzorozDkqf7/edit?usp=sharing&amp;ouid=111625983948152019787&amp;rtpof=true&amp;sd=true&amp;usp=embed_facebook
-)">
+  <img alt="Discourse posts" src="https://img.shields.io/discourse/posts?logo=Curriculo&color=red&link=https%3A%2F%2Fdocs.google.com%2Fdocument%2Fd%2F1JlhYGAA1PkAi7EKQbxV23BzorozDkqf7%2Fedit%3Fusp%3Dsharing%26amp%3Bouid%3D111625983948152019787%26amp%3Brtpof%3Dtrue%26amp%3Bsd%3Dtrue%26amp%3Busp%3Dembed_facebook">
 
 ![Snake animation](https://github.com/10jsc/10jsc/blob/output/github-contribution-grid-snake.svg)
 
