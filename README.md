@@ -1,5 +1,5 @@
-<div style="color: Blue;">
-## Bem-vindo(a) ao perfil do Dev 10jsc 😁
+<div class="conteiner-fluid"style="color: Blue;">
+<a>## Bem-vindo(a) ao perfil do Dev 10jsc 😁</a>
 </div>
 
  <div>
