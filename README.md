@@ -1,6 +1,6 @@
-<div class="conteiner-fluid"style="color: Blue;">
-<a>## Bem-vindo(a) ao perfil do Dev 10jsc 😁</a>
-</div>
+
+<p>## Bem-vindo(a) ao perfil do Dev 10jsc 😁</p>
+
 
  <div>
    <a href="https://github.com/10jsc">
