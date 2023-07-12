@@ -20,7 +20,7 @@
   <a href = "mailto:johnatancostas@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/john-costa-53509a243" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://api.whatsapp.com/send/?phone=55961992532575&text&type=phone_number&app_absent=0" target="_blank"><img src="https://img.shields.io/badge/-Whatsapp-D44B5?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
-  <a href="https://l1nk.dev/QRtgF" target="_blank"><img src="https://img.shields.io/badge/-Curriculo-%23990?style=for-the-badge&logo=googleDrive&logoColor=white" target="_blank"></a> 
+  <a href="https://l1nk.dev/QRtgF" target="_blank"><img src="https://img.shields.io/badge/-Curriculo-%23990?style=for-the-badge&logo=googleDrive&logoColor=white" target="_blank"></a></div>
  
 
 ![Snake animation](https://github.com/10jsc/10jsc/blob/output/github-contribution-grid-snake.svg)
