@@ -1,39 +1,110 @@
-<svg viewBox="0 0 64 20" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <style>
-@keyframes tremer {
-  0%, 100% { transform: translate(0, 0); }
-  25% { transform: translate(2px, 0); } /* Move 2 pixels para a direita */
-  75% { transform: translate(-2px, 0); } /* Move 2 pixels para a esquerda */
-}
-      
-      @keyframes comer {
-        0% { transform: translate(0, 0); }
-        50% { transform: translate(4px, 0); } 
-        100% { transform: translate(0, 0); } 
-      }
-      
-    .tremer {
-      animation: tremer 1s linear infinite; /* Aplica a animação */
-    }
+import pygame
+import random
 
-      .corpo {
-        fill: #4C9A2A; /* Verde */
-      }
+# Inicialização do Pygame
+pygame.init()
 
-      .olho {
-        fill: black;
-      }
+# Cores
+branco = (255, 255, 255)
+preto = (0, 0, 0)
+verde = (0, 255, 0)
+vermelho = (255, 0, 0)
 
-      .cobra {
-        animation: comer 1s infinite;
-      }
-    </style>
-  </defs>
-  
-  <rect class="corpo cobra" x="0" y="8" width="4" height="4" />
-  <rect class="corpo" x="4" y="8" width="4" height="4" />
-  <rect class="corpo" x="8" y="8" width="4" height="4" />
-  <rect class="olho" x="1" y="9" width="1" height="2" />
-  <rect class="olho" x="2" y="9" width="1" height="2" />
-</svg>
+# Configurações da tela
+largura_tela = 350
+altura_tela = 200
+tela = pygame.display.set_mode((largura_tela, altura_tela))
+pygame.display.set_caption('Cobrinha Perseguidora')
+
+# Tamanho do bloco da cobra
+tamanho_bloco = 10
+
+# Clock para controlar a velocidade do jogo
+clock = pygame.time.Clock()
+
+# Posição inicial da bolinha
+x_bolinha = random.randrange(0, largura_tela - tamanho_bloco, tamanho_bloco)
+y_bolinha = random.randrange(0, altura_tela - tamanho_bloco, tamanho_bloco)
+
+# Funções
+def desenhar_cobra(tamanho_bloco, lista_cobra):
+    """Desenha a cobra na tela."""
+    for x, y in lista_cobra:
+        pygame.draw.rect(tela, verde, [x, y, tamanho_bloco, tamanho_bloco])
+
+def jogo():
+    """Loop principal do jogo."""
+    fim_de_jogo = False
+
+    # Posição inicial da cobra
+    x_cobra = largura_tela / 2
+    y_cobra = altura_tela / 2
+    velocidade_x = 0
+    velocidade_y = 0
+
+    # Comprimento inicial da cobra
+    lista_cobra = []
+    comprimento_cobra = 1
+
+    while not fim_de_jogo:
+        for evento in pygame.event.get():
+            if evento.type == pygame.QUIT:
+                fim_de_jogo = True
+            if evento.type == pygame.KEYDOWN:
+                if evento.key == pygame.K_LEFT:
+                    velocidade_x = -tamanho_bloco
+                    velocidade_y = 0
+                elif evento.key == pygame.K_RIGHT:
+                    velocidade_x = tamanho_bloco
+                    velocidade_y = 0
+                elif evento.key == pygame.K_UP:
+                    velocidade_y = -tamanho_bloco
+                    velocidade_x = 0
+                elif evento.key == pygame.K_DOWN:
+                    velocidade_y = tamanho_bloco
+                    velocidade_x = 0
+
+        # Impede que a cobra saia da tela
+        if x_cobra >= largura_tela or x_cobra < 0 or y_cobra >= altura_tela or y_cobra < 0:
+            fim_de_jogo = True
+
+        # Move a cobra
+        x_cobra += velocidade_x
+        y_cobra += velocidade_y
+
+        # Preenche a tela
+        tela.fill(preto)
+
+        # Desenha a bolinha
+        pygame.draw.rect(tela, vermelho, [x_bolinha, y_bolinha, tamanho_bloco, tamanho_bloco])
+
+        # Cria a lista da cobra
+        cabeca_cobra = []
+        cabeca_cobra.append(x_cobra)
+        cabeca_cobra.append(y_cobra)
+        lista_cobra.append(cabeca_cobra)
+
+        # Ajusta o comprimento da cobra
+        if len(lista_cobra) > comprimento_cobra:
+            del lista_cobra[0]
+
+        # Desenha a cobra
+        desenhar_cobra(tamanho_bloco, lista_cobra)
+
+        # Move a bolinha para uma nova posição aleatória se a cobra a alcançar
+        if x_cobra == x_bolinha and y_cobra == y_bolinha:
+            x_bolinha = random.randrange(0, largura_tela - tamanho_bloco, tamanho_bloco)
+            y_bolinha = random.randrange(0, altura_tela - tamanho_bloco, tamanho_bloco)
+            comprimento_cobra += 1
+
+        # Atualiza a tela
+        pygame.display.update()
+
+        # Velocidade do jogo
+        clock.tick(10)
+
+    pygame.quit()
+    quit()
+
+# Inicia o jogo
+jogo()
