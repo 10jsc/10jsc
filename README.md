@@ -1,5 +1,5 @@
 
-<p>## Bem-vindo(a) ao perfil do Dev 10jsc 😁</p>
+<p>## Bem-vindo(a) ao perfil do 10jsc 😁</p>
 
 
  <div>
@@ -28,8 +28,13 @@
 
 ### Agradecimentos:
 
-Ao canal Dev em dobro, aos irmãos Ricardo e Roberto, por trazerem de volta o desejo de aprender desenvolvimento web.
+Ao canal Dev em dobro, e a Alura pela imersão.
 Canal Dev em dobro :point_down:
  <div class="section-divider background-color-rainbow"></div>
 <a href="https://www.youtube.com/devemdobro" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
  <div class="section-divider background-color-rainbow"></div>
+ 
+ <div class="section-divider background-color-rainbow"></div>
+<a href="https://cursos.alura.com.br/imersao" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+ <div class="section-divider background-color-rainbow"></div>
+
