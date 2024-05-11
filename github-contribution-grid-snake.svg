@@ -6,6 +6,15 @@
         50% { transform: translate(4px, 0); } 
         100% { transform: translate(0, 0); } 
       }
+      @keyframes tremer {
+  0%, 100% { transform: translate(0, 0); }
+  25% { transform: translate(2px, 0); } /* Move 2 pixels para a direita */
+  75% { transform: translate(-2px, 0); } /* Move 2 pixels para a esquerda */
+}
+
+.tremer {
+  animation: tremer 1s linear infinite; /* Aplica a animação */
+}
 
       .corpo {
         fill: #4C9A2A; /* Verde */
