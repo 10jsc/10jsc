@@ -28,12 +28,13 @@
 
 ### Agradecimentos:
 
-Ao canal Dev em dobro, e a Alura pela imersão.
+Ao canal Dev em dobro,
 Canal Dev em dobro :point_down:
  <div class="section-divider background-color-rainbow"></div>
 <a href="https://www.youtube.com/devemdobro" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
  <div class="section-divider background-color-rainbow"></div>
- 
+ Alura pela imersão.
+ Alura::point_down:
  <div class="section-divider background-color-rainbow"></div>
 <a href="https://cursos.alura.com.br/imersao" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
  <div class="section-divider background-color-rainbow"></div>
