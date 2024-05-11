@@ -34,7 +34,7 @@ Canal Dev em dobro :point_down:
 <a href="https://www.youtube.com/devemdobro" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
  <div class="section-divider background-color-rainbow"></div>
  Alura pela imersão.
- Alura::point_down:
+ Alura:
  <div class="section-divider background-color-rainbow"></div>
 <a href="https://cursos.alura.com.br/imersao" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
  <div class="section-divider background-color-rainbow"></div>
