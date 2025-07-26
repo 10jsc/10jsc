@@ -2,22 +2,28 @@ name: Generate Snake Animation
 
 on:
   schedule:
-    - cron: "0 0 * * *" # executa todo dia à meia-noite UTC
-  workflow_dispatch:
+    - cron: "0 0 * * *"  # Executa diariamente à meia-noite UTC
+  workflow_dispatch:      # Permite acionar manualmente
+  push:
+    branches:
+      - main             # Dispara quando houver push no main
 
 jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
-      - uses: Platane/snk@v3
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Generate snake animation
+        uses: Platane/snk@master
         with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-      - name: Push to output branch
-        uses: crazy-max/ghaction-github-pages@v3
+          github_user_name: 10jsc  # Substitua pelo seu username REAL
+          svg_path: "github-contribution-grid-snake.svg"
+
+      - name: Commit and push
+        uses: actions/commit@v4
         with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          branch: output
+          path: github-contribution-grid-snake.svg
+          message: "Update snake animation"
