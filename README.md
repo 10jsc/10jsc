@@ -36,18 +36,26 @@
   </a>
 </div>
 
-## 🎓 Agradecimentos
-### Canais que me inspiram:
-<div align="center">
-  <a href="https://www.youtube.com/devemdobro" target="_blank">
-    <img src="https://img.shields.io/badge/DevEmDobro-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Dev em Dobro" target="_blank">
-  </a>
-  
-  <a href="https://www.youtube.com/@alura" target="_blank">
-    <img src="https://img.shields.io/badge/Alura-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Alura" target="_blank">
-  </a>
-  
-  <a href="https://www.youtube.com/results?search_query=ada+tech" target="_blank">
-    <img src="https://img.shields.io/badge/ADA_Tech-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="ADA Tech" target="_blank">
-  </a>
-</div>
+### Agradecimentos:
+
+Aos canais:
+
+Canal Dev em Dobro :point_down:
+<div class="section-divider background-color-rainbow"></div>
+<a href="https://www.youtube.com/devemdobro" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+<div class="section-divider background-color-rainbow"></div>
+
+Canal Alura :point_down:
+<br>
+Alura:
+<div class="section-divider background-color-rainbow"></div>
+<a href="https://www.youtube.com/@alura" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+
+ADA Tech pelo aprendizado :point_down:
+<br>
+ADA Tech:
+<br>
+<div class="section-divider background-color-rainbow"></div>
+<a href="https://www.youtube.com/results?search_query=ada+tech" target="_blank">
+  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="ADA Tech no YouTube" target="_blank"></a>
+<div class="section-divider background-color-rainbow"></div>
