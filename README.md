@@ -23,7 +23,7 @@
   </div>
  
 
-![Snake animation](https://github.com/10jsc/10jsc/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/10jsc/10jsc/output/github-contribution-grid-snake.svg)
 
 
 ### Agradecimentos:
