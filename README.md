@@ -23,7 +23,7 @@
   </div>
  
 
-![snake gif](https://github.com/10jsc/10jsc/blob/output/github-contribution-grid-snake.svg)
+<img src="https://raw.githubusercontent.com/10jsc/10jsc/output/snake.svg" alt="Snake animation" />
 
 
 
