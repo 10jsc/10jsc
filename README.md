@@ -25,8 +25,6 @@
 
 ![snake gif](https://github.com/10jsc/10jsc/blob/output/github-contribution-grid-snake.svg)
 
-![Snake animation](https://raw.githubusercontent.com/10jsc/10jsc/output/snake.svg)
-
 
 [![Repositório](https://github-readme-stats.vercel.app/api/pin/?username=10jsc&repo=10jsc&theme=react)](https://github.com/10jsc/10jsc)
 
