@@ -41,6 +41,7 @@ Canal Dev em dobro :point_down:
 ADA Tech pelo aprendizado :point_down:
 <br>
 ADA Tech:
+<br>
 <div class="section-divider background-color-rainbow"></div>
 <a href="https://www.youtube.com/results?search_query=ada+tech" target="_blank">
   <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="ADA Tech no YouTube" target="_blank"></a>
