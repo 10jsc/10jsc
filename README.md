@@ -33,15 +33,14 @@ Canal Dev em dobro :point_down:
  <div class="section-divider background-color-rainbow"></div>
 <a href="https://www.youtube.com/devemdobro" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
  <div class="section-divider background-color-rainbow"></div>
- Alura pela imersão.
+ Canal Alura :point_down:
  Alura:
  <div class="section-divider background-color-rainbow"></div>
 <a href="https://www.youtube.com/@alura" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-ADA Tech pelo aprendizado:
+ADA Tech pelo aprendizado :point_down:
 ADA Tech:
 <div class="section-divider background-color-rainbow"></div>
 <a href="https://www.youtube.com/results?search_query=ada+tech" target="_blank">
-  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="ADA Tech no YouTube" target="_blank">
-</a>
+  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="ADA Tech no YouTube" target="_blank"></a>
  <div class="section-divider background-color-rainbow"></div>
 
