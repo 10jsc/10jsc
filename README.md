@@ -46,7 +46,6 @@
 
 ## 📈 Minha Atividade no GitHub
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=10jsc&theme=github&area=true&height=200&hide_border=true)
-![Contribuições](https://github-contributor-stats.vercel.app/api?username=10jsc&combine_all_yearly=true&theme=radical)
 <br>
 ## 🐍 Minha Atividade Diária
 <picture>
