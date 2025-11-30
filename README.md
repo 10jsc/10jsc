@@ -38,6 +38,10 @@
   </tr>
 </table>
 <br>
+🚀 **Busco:** Colaborar em projetos 🔥...
+![JSC3_Janelas](https://img.shields.io/badge/JSC3_Janelas-Developer-blueviolet?style=for-the-badge)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=10jsc&theme=github-compact&hide_border=true)
+<br>
 ## 🐍 Minha Atividade Diária
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/10jsc/10jsc/output/snake.svg">
