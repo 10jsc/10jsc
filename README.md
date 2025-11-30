@@ -8,7 +8,7 @@
     <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=10jsc&theme=radical"/>
   </a>
 </div>
-<br>
+
 ## 🛠️ **Tecnologias & Ferramentas**
 <div align="center">
   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
