@@ -1,6 +1,6 @@
 ## Bem-vindo(a) ao meu perfil, me chamo Johnatan 😁
 
-<div align="center">
+<div align="">
   <a href="https://github.com/10jsc">
     <!--<img height="180em" src="https://github-readme-stats.vercel.app/api?username=10jsc&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>-->
        <img height="180em" src="https://streak-stats.demolab.com/?user=10jsc&theme=radical&hide_border=true&width=500"/>
