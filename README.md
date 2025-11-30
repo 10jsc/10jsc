@@ -3,9 +3,9 @@
 <div align="center">
   <a href="https://github.com/10jsc">
     <!--<img height="180em" src="https://github-readme-stats.vercel.app/api?username=10jsc&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>-->
-    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=10jsc&theme=radical&hide_border=true&width=400"/>
+    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=10jsc&theme=radical&hide_border=true&width=600"/>
     <!--<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=10jsc&layout=compact&langs_count=6&theme=tokyonight"/>-->
-    <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=10jsc&theme=radical&width=400"/>
+    <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=10jsc&theme=radical&width=600"/>
   </a>
 </div>
 
