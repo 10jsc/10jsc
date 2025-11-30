@@ -20,20 +20,20 @@
 ## 🛠️ **Tecnologias & Ferramentas (IMG gerada com HTML)**
 <table>
   <tr>
-    <td style="padding: 0 40px;">
-      <img alt="Js" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+    <td style="padding: 0 30px;">
+      <img alt="Js" height="50" width="65" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     </td>
-    <td style="padding: 0 40px;">
-      <img alt="HTML" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+    <td style="padding: 0 30px;">
+      <img alt="HTML" height="50" width="65" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     </td>
-    <td style="padding: 0 40px;">
-      <img alt="CSS" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    <td style="padding: 0 30px;">
+      <img alt="CSS" height="50" width="65" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     </td>
-    <td style="padding: 0 40px;">
-      <img alt="Git" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+    <td style="padding: 0 30px;">
+      <img alt="Git" height="50" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
     </td>
-    <td style="padding: 0 40px;">
-      <img alt="Python" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+    <td style="padding: 0 30px;">
+      <img alt="Python" height="50" width="65" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
     </td>
   </tr>
 </table>
