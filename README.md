@@ -23,23 +23,24 @@
 ## 🛠️ **Tecnologias & Ferramentas (IMG gerada com HTML)**
 <table>
   <tr>
-    <td style="padding: 0 20px;">
+    <td style="padding: 0 300px;">
       <img alt="Js" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     </td>
-    <td style="padding: 0 20px;">
+    <td style="padding: 0 30px;">
       <img alt="HTML" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     </td>
-    <td style="padding: 0 20px;">
+    <td style="padding: 0 30px;">
       <img alt="CSS" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     </td>
-    <td style="padding: 0 20px;">
+    <td style="padding: 0 30px;">
       <img alt="Git" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
     </td>
-    <td style="padding: 0 20px;">
+    <td style="padding: 0 30px;">
       <img alt="Python" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
     </td>
   </tr>
 </table>
+<br>
 ## 🐍 Minha Atividade Diária
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/10jsc/10jsc/output/snake.svg">
