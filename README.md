@@ -44,7 +44,7 @@
 🎯 **Foco: Front-end & Python  
 🚀 **Busco: Colaborar em projetos🔥
 
-![JSC3_Janelas](https://img.shields.io/badge/JSC3_Janelas-Developer-blueviolet?style=for-the-badge)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=10jsc&theme=github&area=true&height=200&hide_border=true)
 
 ## 📈 Minha Atividade no GitHub
 
