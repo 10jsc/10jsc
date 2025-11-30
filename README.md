@@ -38,17 +38,17 @@
   </tr>
 </table>
 <br>
-## 👋 Sobre o John (JSC3_Janelas)
+## 👋 Sobre o Johnatan (JSC)
 
 💻 **Desenvolvedor em evolução**  
-🎯 **Foco:** Front-end & Python  
-🚀 **Busco:** Colaborar em projetos incríveis 🔥
+🎯 **Foco: Front-end & Python  
+🚀 **Busco: Colaborar em projetos🔥
 
 ![JSC3_Janelas](https://img.shields.io/badge/JSC3_Janelas-Developer-blueviolet?style=for-the-badge)
 
 ## 📈 Minha Atividade no GitHub
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=10jsc&theme=github-compact&hide_border=true)
+![Contribuições](https://github-contributor-stats.vercel.app/api?username=10jsc&combine_all_yearly=true&theme=radical)
 <br>
 ## 🐍 Minha Atividade Diária
 <picture>
