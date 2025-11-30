@@ -10,24 +10,36 @@
 </div>
 
 ## 🛠️ **Tecnologias & Ferramentas (IMG gerada com MD)**
-<div>
+
   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
   ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
   ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
   ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
   ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-</div>
+
   
 <br>
 
 ## 🛠️ **Tecnologias & Ferramentas (IMG gerada com HTML)**
-<div class="container">
-  <img alt="Js" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" style="margin-right: 40px;">
-  <img alt="HTML" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" style="margin-right: 40px;">
-  <img alt="CSS" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" style="margin-right: 40px;">
-  <img alt="Git" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="margin-right: 40px;">
-  <img alt="Python" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-</div>
+<table>
+  <tr>
+    <td style="padding: 0 20px;">
+      <img alt="Js" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+    </td>
+    <td style="padding: 0 20px;">
+      <img alt="HTML" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+    </td>
+    <td style="padding: 0 20px;">
+      <img alt="CSS" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    </td>
+    <td style="padding: 0 20px;">
+      <img alt="Git" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+    </td>
+    <td style="padding: 0 20px;">
+      <img alt="Python" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+    </td>
+  </tr>
+</table>
 ## 🐍 Minha Atividade Diária
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/10jsc/10jsc/output/snake.svg">
