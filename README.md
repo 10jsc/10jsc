@@ -20,7 +20,7 @@
 ## 🛠️ **Tecnologias & Ferramentas (IMG gerada com HTML)**
 <table>
   <tr>
-    <td style="padding: 0 40px;">
+    <td style="padding: 0 60px;">
       <img alt="Js" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     </td>
     <td style="padding: 0 40px;">
