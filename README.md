@@ -20,13 +20,13 @@
 <br>
 
 ## 🛠️ **Tecnologias & Ferramentas (IMG gerada com HTML)**
-<!--<div align="center">-->
+<div class="conteiner" align="center">
   <img alt="Js" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" style="margin-right: 40px;">
   <img alt="HTML" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" style="margin-right: 40px;">
   <img alt="CSS" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" style="margin-right: 40px;">
   <img alt="Git" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="margin-right: 40px;">
   <img alt="Python" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-<!--</div>-->
+</div>
 ## 🐍 Minha Atividade Diária
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/10jsc/10jsc/output/snake.svg">
