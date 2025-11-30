@@ -1,11 +1,11 @@
 ## Bem-vindo(a) ao meu perfil, me chamo Johnatan 😁
 
-<div align="">
+<div align="center">
   <a href="https://github.com/10jsc">
     <!--<img height="180em" src="https://github-readme-stats.vercel.app/api?username=10jsc&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>-->
-       <img height="180em" style="width: 500px !important; max-width: 500px;" src="https://streak-stats.demolab.com/?user=10jsc&theme=radical&hide_border=true&width=500"/>
+       <img height="180em" style="width: 400px !important; max-width: 500px;" src="https://streak-stats.demolab.com/?user=10jsc&theme=radical&hide_border=true&width=500"/>
     <!--<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=10jsc&layout=compact&langs_count=6&theme=tokyonight"/>-->
-    <img height="180em" style="width: 500px !important; max-width: 500px;" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=10jsc&theme=radical&width=500"/>
+    <img height="180em" style="width: 400px !important; max-width: 500px;" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=10jsc&theme=radical&width=500"/>
   </a>
 </div>
 
