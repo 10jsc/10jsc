@@ -20,7 +20,7 @@
 <br>
 
 ## 🛠️ **Tecnologias & Ferramentas (IMG gerada com HTML)**
-<div class="conteiner" align="center">
+<div class="container" align="center">
   <img alt="Js" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" style="margin-right: 40px;">
   <img alt="HTML" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" style="margin-right: 40px;">
   <img alt="CSS" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" style="margin-right: 40px;">
