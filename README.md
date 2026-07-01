@@ -2,7 +2,7 @@
 
 # 👋 Johnatan Costa <sub>(10jsc)</sub>
 
-**Desenvolvedor em evolução · Foco em Front-end & Python**
+**Desenvolvedor em evolução · Foco em Front-end & Python - Atualização: ADS,JAVA**
 
 [![Portfólio](https://img.shields.io/badge/🌐_Portfólio-111111?style=for-the-badge)](https://10jsc.github.io/10jsc/)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/johnatan-s-costa-53509a243/)
@@ -31,6 +31,8 @@
 | Projeto | Descrição | Link |
 |---|---|---|
 | **Sorteio Loto IA** | Gerador de sorteio de loteria com Python + IA (Alura/Gemini) | [Abrir no Colab](https://colab.research.google.com/github/10jsc/10jsc/blob/main/Sorteio_Loto_IAAlura.ipynb) |
+| **X-Men Dev** | Seletor de personagens X-Men em HTML, CSS e JS | [Ver projeto](https://10jsc.github.io/x-men-dev/) |
+| **Projeto Pokedev** | Pokédex construída em HTML e CSS | [Ver projeto](https://10jsc.github.io/projeto-pokedev/) |
 
 <br>
 
