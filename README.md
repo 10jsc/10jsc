@@ -17,11 +17,11 @@
 ## 🛠️ Stack
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" height="42" width="42" alt="JavaScript"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="42" width="42" alt="HTML5"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="42" width="42" alt="CSS3"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="42" width="42" alt="Python"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" height="42" width="42" alt="Git"/>
+  <a href="https://10jsc.github.io/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" height="42" width="42" alt="JavaScript"/></a>
+  <a href="https://10jsc.github.io/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="42" width="42" alt="HTML5"/></a>
+  <a href="https://10jsc.github.io/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="42" width="42" alt="CSS3"/></a>
+  <a href="https://10jsc.github.io/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="42" width="42" alt="Python"/></a>
+  <a href="https://10jsc.github.io/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" height="42" width="42" alt="Git"/></a>
 </div>
 
 <br>
@@ -30,18 +30,18 @@
 
 | Projeto | Descrição | Link |
 |---|---|---|
-| **Portfólio** | Site pessoal, com todos os projetos e stack organizados | [Visitar site](https://10jsc.github.io/) |
-| **Sorteio Loto IA** | Gerador de sorteio de loteria com Python + IA (Alura/Gemini) | [Abrir no Colab](https://colab.research.google.com/github/10jsc/10jsc/blob/main/Sorteio_Loto_IAAlura.ipynb) |
-| **X-Men Dev** | Seletor de personagens X-Men em HTML, CSS e JS | [Ver projeto](https://10jsc.github.io/x-men-dev/) |
-| **Projeto Pokedev** | Pokédex construída em HTML e CSS | [Ver projeto](https://10jsc.github.io/projeto-pokedev/) |
+| **Portfólio** | Site pessoal com todos os projetos | [Visitar site](https://10jsc.github.io/) |
+| **Sorteio Loto IA** | Gerador de sorteio com Python + IA | [Abrir no Colab](https://colab.research.google.com/github/10jsc/10jsc/blob/main/Sorteio_Loto_IAAlura.ipynb) |
+| **X-Men Dev** | Seletor de personagens X-Men | [Ver projeto](https://10jsc.github.io/x-men-dev/) |
+| **Projeto Pokedev** | Pokédex em HTML e CSS | [Ver projeto](https://10jsc.github.io/projeto-pokedev/) |
 
 <br>
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=10jsc&theme=radical&hide_border=true"/>
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=10jsc&theme=radical"/>
+  <a href="https://10jsc.github.io/"><img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=10jsc&theme=radical"/></a>
+  <a href="https://10jsc.github.io/"><img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=10jsc&theme=radical"/></a>
 </div>
 
 ## 🐍 Atividade diária
