@@ -22,6 +22,7 @@
   <a href="https://10jsc.github.io/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="42" width="42" alt="CSS3"/></a>
   <a href="https://10jsc.github.io/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="42" width="42" alt="Python"/></a>
   <a href="https://10jsc.github.io/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" height="42" width="42" alt="Git"/></a>
+  <a href="https://10jsc.github.io/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="42" width="42" alt="Java"/></a>
 </div>
 
 <br>
