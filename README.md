@@ -35,6 +35,8 @@
 | **Sorteio Loto IA** | Gerador de sorteio com Python + IA | [Abrir no Colab](https://colab.research.google.com/github/10jsc/10jsc/blob/main/Sorteio_Loto_IAAlura.ipynb) |
 | **X-Men Dev** | Seletor de personagens X-Men | [Ver projeto](https://10jsc.github.io/x-men-dev/) |
 | **Projeto Pokedev** | Pokédex em HTML e CSS | [Ver projeto](https://10jsc.github.io/projeto-pokedev/) |
+| **Projeto TFTFlyway** | Painel inicial anti-cheat ilustrativo - projeto completo ausente | [Ver projeto](https://10jsc.github.io/TFTFlyway/) |
+
 
 <br>
 
